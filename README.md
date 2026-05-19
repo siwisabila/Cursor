@@ -33,3 +33,9 @@ At first, I could not find the Extensions section in Cursor. I tried using the s
 
 - GitHub Repository Issue
 I initially created the GitHub repository directly from the GitHub website. However, I encountered difficulties when trying to open and clone the repository through Cursor. To solve this, I downloaded GitHub Dekstop, cloned the repository from there, and then used the "Open in Cursor" feature to successfully connect the project with Cursor IDE.
+
+## Through this process, I learned:
+- Basic GitHub repository workflow
+- How to use Cursor IDE
+- How to manage and document technical setup processes
+- How to troubleshoot missing tools and interface changes
